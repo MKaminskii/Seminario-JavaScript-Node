@@ -1,0 +1,14 @@
+{
+  "name": "mural-de-recados-apresentacao",
+  "version": "2.4.0",
+  "description": "Mural de recados — versão sem comentários, usada na apresentação.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}

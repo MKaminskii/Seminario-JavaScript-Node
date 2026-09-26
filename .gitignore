@@ -1,0 +1,9 @@
+mural.db
+mural.db-journal
+mural.db-wal
+mural.db-shm
+node_modules/
+
+# certificado do HTTPS (opcional) — a chave privada nunca vai para o repositório
+cert.pem
+chave.pem
